@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-115/70-115-lesson-plan/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/70-115/70-115-lesson-plan/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
