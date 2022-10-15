@@ -9,7 +9,10 @@
 
 The Courses offered in Fall of 2022 are:
 
-
-| [[70-110/70-110-Lesson Plan|70-110-Lesson Plan]] | [[70-115/70-115-Lesson Plan|70-115-Lesson Plan]] | [[52-270/52-270-Lesson Plan|52-270-Lesson Plan]] |
+ [[70-110/70-110-Lesson Plan|70-110]] : Fundamentals of Electrical Engineering
+  
+ [[70-115/70-115-Lesson Plan|70-115]] : Electric Circuits
+ 
+ [[52-270/52-270-Lesson Plan|52-270]] : Electric Drives
 
 
