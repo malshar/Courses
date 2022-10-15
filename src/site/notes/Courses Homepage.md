@@ -10,3 +10,12 @@
 [[52-270/52-270-Lesson Plan|52-270-Lesson Plan]]
 
 $$Y=X^2 - \frac{X}{3}$$
+
+---
+# title of SLide
+
+hello
+
+
+---
+## second slide
