@@ -8,3 +8,5 @@
 [[70-115/70-115-Lesson Plan|70-115-Lesson Plan]]
 
 [[52-270/52-270-Lesson Plan|52-270-Lesson Plan]]
+
+$$Y=X^2 - \frac{X}{3}$$
