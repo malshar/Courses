@@ -5,7 +5,7 @@
 
 ### [[52-270/270-Lecture 1|270-Lecture 1]]
 
-- [ ] **Recognize the structure of Electric Drive systems and their role in various applications** ^df7405
+- [ ] **Recognize the structure of Electric Drive systems and their role in various applications**
 	- [ ] Describe the definition of Electric Drive.
 	- [ ] Describe the structure of Electric Drive systems.
 	- [ ] Describe the torque equation of rotating systems.
@@ -17,7 +17,7 @@
 
 ### [[ 270-Lecture 2| 270-Lecture 2]]
 
-- [ ] **Describe the basic characteristics of DC motors and their control parameters** ^e8d58f
+- [ ] **Describe the basic characteristics of DC motors and their control parameters**
 	- [ ] Describe the steady-state characteristics of DC Motors.
 	- [ ] Describe the Motoring operating Mode of DC Motors.
 	- [ ] Describe the Dynamic Breaking operating Mode of DC Motors.
@@ -26,7 +26,7 @@
 
 ### [[52-270/270-Lecture 3|270-Lecture 3]]
 
-- [ ] **Recognize the various types of DC motor drives** ^bd6b1f
+- [ ] **Recognize the various types of DC motor drives**
 	- [ ] State the general classifications of DC motor drives.
 	- [ ] Describe the basic electrical and mechanical characteristics of DC motors.
 	- [ ] Describe how DC drives are used to control the operation of DC motors.
@@ -37,7 +37,7 @@
 
 ### [[52-270/270-Lecture 4|270-Lecture 4]]
 
-- [ ] **Explain a single-phase SCR DC Drive** ^872b32
+- [ ] **Explain a single-phase SCR DC Drive**
 	- [ ] State the differences between a naturally-commutated SCR circuit and a forced commutated SCR circuit.
 	- [ ] Describe a single-phase DC drives with line-commutated converters.
 	- [ ] Describe a single-phase DC drives with forced-commutated converters.
@@ -50,7 +50,7 @@
 
 ### [[52-270/270-Lecture 5|270-Lecture 5]]
 
-- [ ] **Explain Three-Phase DC Drives** ^d46e5f
+- [ ] **Explain Three-Phase DC Drives**
 	- [ ] Describe three phase half-wave converter drives.
 	- [ ] Describe three phase full-wave converter drives.
 	- [ ] Analyze three-phase full- and half-wave rectifier control of DC drives.
@@ -63,7 +63,7 @@
 
 ### [[52-270/270-Lecture 6|270-Lecture 6]]
 
-- [ ] **Explain DC-DC Converter Drives** ^4039d2
+- [ ] **Explain DC-DC Converter Drives**
 	- [ ] Describe the basic types of DC-DC converter circuits.
 	- [ ] Analyze the operation of various types of DC chopper drives.
 	- [ ] Utilize DC-DC Converter Drives to control the speed of DC motor.
@@ -75,7 +75,7 @@
 
 ### [[52-270/270-Lecture 7|270-Lecture 7]]
 
-- [ ] **Explain the various methods of three-phase induction motor drives** ^17103a
+- [ ] **Explain the various methods of three-phase induction motor drives** 
 	- [ ] Explain the basic control performance characteristics of three Induction Machines 	
 	- [ ] Describe the principles of speed control of induction motors.
 	- [ ] Describe stator voltage control method of three-phase induction motor.
@@ -90,7 +90,7 @@
 
 ### [[52-270/270-Lecture 8|270-Lecture 8]]
 
-- [ ] **Explain Adjustable Frequency Drives (AFDs)** ^0ddea3
+- [ ] **Explain Adjustable Frequency Drives (AFDs)**
 	- [ ] Describe the major components and operation of a VFD.
 	- [ ] Identify the specifications of an Adjustable Frequency Drive (AFD).
 	- [ ] Apply proper operational guidelines from the AFD manufacturer manuals.
@@ -102,7 +102,7 @@
 
 ### [[52-270/270-Lecture 9|270-Lecture 9]]
 
-- [ ] **Explain Uninterruptible Power Supply (UPS)** ^e5aea3
+- [ ] **Explain Uninterruptible Power Supply (UPS)**
 	- [ ] State the general requirements for industrial power supplies.
 	- [ ] Explain the requirements for and uses of alternate power supplies.
 	- [ ] Describe the general types of Uninterruptible Power Supply (UPS) systems.
@@ -117,7 +117,7 @@
 
 ### [[52-270/270-Lecture 10|270-Lecture 10]]
 
-- [ ] **Study storage batteries and battery charging** ^3fb6d3
+- [ ] **Study storage batteries and battery charging**
 	- [ ] Identify the major types of storage batteries.
 	- [ ] Describe the effects of temperature and discharge rate on battery capacity and life.
 	- [ ] Identify and describe charging techniques.
