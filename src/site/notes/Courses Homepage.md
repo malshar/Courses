@@ -5,10 +5,10 @@
 
 # Courses Homepage
 ---
-## By Dr. Mishal E. AlSharidah
+## Dr. Mishal E. AlSharidah
 ### The Public Authority for Applied Education and Training
-#### College of Technological Studies
-##### Electrical Engineering Technology Department
+### College of Technological Studies
+#### Electrical Engineering Technology Department
 ##### Shuwaikh Campus, Bldg. 22 , Office# 41 
 
 ---
