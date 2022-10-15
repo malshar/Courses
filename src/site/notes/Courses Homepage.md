@@ -10,6 +10,8 @@
 #### Electrical Engineering Technology Department
 ##### Shuwaikh Campus, Bldg. 22 , Office# 41 
 ### The Public Authority for Applied Education and Training
+---
+
 
 The Courses offered in Fall of 2022 are:
 
