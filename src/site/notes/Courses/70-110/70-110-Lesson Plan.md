@@ -3,8 +3,6 @@
 ---
 
 
-Hello
-
 ### [[Courses/70-110/110-Lecture 1|110-Lecture 1]]
 
 - [ ] **Understand the concept of potential difference (voltage) and charge motion (current)**
