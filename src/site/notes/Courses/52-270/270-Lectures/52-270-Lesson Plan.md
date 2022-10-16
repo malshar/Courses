@@ -3,7 +3,7 @@
 ---
 
 
-### [[Courses/52-270/270-Lectures/270-Lecture 1|Courses/52-270/270-Lectures/270-Lecture 1]]
+### [[Courses/52-270/270-Lectures/270-Lecture 1|Lecture 1]]
 
 - [ ] **Recognize the structure of Electric Drive systems and their role in various applications**
 	- [ ] Describe the definition of Electric Drive.
@@ -15,7 +15,7 @@
 	- [ ] Explain the role of Electric Drive systems in renewable energy.
 	- [ ] Explain the role of Electric Drive systems in transportation and automation.
 
-### [[ Courses/52-270/270-Lectures/270-Lecture 2| Courses/52-270/270-Lectures/270-Lecture 2]]
+### [[ Courses/52-270/270-Lectures/270-Lecture 2|Lecture 2]]
 
 - [ ] **Describe the basic characteristics of DC motors and their control parameters**
 	- [ ] Describe the steady-state characteristics of DC Motors.
@@ -24,7 +24,7 @@
 	- [ ] Describe the Regenerative Breaking operating Mode of DC Motors.
 	- [ ] Describe the Plugging operating Mode of DC Motors.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 3|Courses/52-270/270-Lectures/270-Lecture 3]]
+### [[Courses/52-270/270-Lectures/270-Lecture 3|Lecture 3]]
 
 - [ ] **Recognize the various types of DC motor drives**
 	- [ ] State the general classifications of DC motor drives.
@@ -35,7 +35,7 @@
 	- [ ] Explain the meaning of single-, double-, and four-quadrant operation.
 	- [ ] Describe the operation of dc motor drives to satisfy four-quadrant operation to meet mechanical load requirements.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 4|Courses/52-270/270-Lectures/270-Lecture 4]]
+### [[Courses/52-270/270-Lectures/270-Lecture 4|Lecture 4]]
 
 - [ ] **Explain a single-phase SCR DC Drive**
 	- [ ] State the differences between a naturally-commutated SCR circuit and a forced commutated SCR circuit.
@@ -48,7 +48,7 @@
 	- [ ] Work in teams to perform laboratory experiments.
 	- [ ] Simulate a single-phase SCR DC drive.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 5|Courses/52-270/270-Lectures/270-Lecture 5]]
+### [[Courses/52-270/270-Lectures/270-Lecture 5|Lecture 5]]
 
 - [ ] **Explain Three-Phase DC Drives**
 	- [ ] Describe three phase half-wave converter drives.
@@ -61,7 +61,7 @@
 	- [ ] Work in teams to perform laboratory experiments.
 	- [ ] Simulate a three-phase controlled DC drive.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 6|Courses/52-270/270-Lectures/270-Lecture 6]]
+### [[Courses/52-270/270-Lectures/270-Lecture 6|Lecture 6]]
 
 - [ ] **Explain DC-DC Converter Drives**
 	- [ ] Describe the basic types of DC-DC converter circuits.
@@ -73,7 +73,7 @@
 	- [ ] Describe the closed-loop control of DC Drives.
 	- [ ] Simulate a chopper DC Drive.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 7|Courses/52-270/270-Lectures/270-Lecture 7]]
+### [[Courses/52-270/270-Lectures/270-Lecture 7|Lecture 7]]
 
 - [ ] **Explain the various methods of three-phase induction motor drives** 
 	- [ ] Explain the basic control performance characteristics of three Induction Machines 	
@@ -88,7 +88,7 @@
 	- [ ] Work in teams to perform laboratory experiments.
 	- [ ] Simulate a three-phase induction motor drive.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 8|Courses/52-270/270-Lectures/270-Lecture 8]]
+### [[Courses/52-270/270-Lectures/270-Lecture 8|Lecture 8]]
 
 - [ ] **Explain Adjustable Frequency Drives (AFDs)**
 	- [ ] Describe the major components and operation of a VFD.
@@ -100,7 +100,7 @@
 	- [ ] Compare the operation of a loaded AC induction motor with and without the AFD connected.
 	- [ ] Describe the importance of line filtering for VFD equipment.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 9|Courses/52-270/270-Lectures/270-Lecture 9]]
+### [[Courses/52-270/270-Lectures/270-Lecture 9|Lecture 9]]
 
 - [ ] **Explain Uninterruptible Power Supply (UPS)**
 	- [ ] State the general requirements for industrial power supplies.
@@ -115,7 +115,7 @@
 	- [ ] Describe the operation of various multistage AC power supplies.
 	- [ ] Simulate a UPS system.
 
-### [[Courses/52-270/270-Lectures/270-Lecture 10|Courses/52-270/270-Lectures/270-Lecture 10]]
+### [[Courses/52-270/270-Lectures/270-Lecture 10|Lecture 10]]
 
 - [ ] **Study storage batteries and battery charging**
 	- [ ] Identify the major types of storage batteries.
