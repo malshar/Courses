@@ -15,7 +15,7 @@
 The Courses offered in Fall of 2022 are:
 
 
-[![Foo](img/6-1.png|150px)](https://class-room.info/courses/70-110/70-110-lesson-plan/)
+[![Foo](6-1.png|150px)](https://class-room.info/courses/70-110/70-110-lesson-plan/)
 
 
   ---
