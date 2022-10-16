@@ -15,7 +15,7 @@
 The Courses offered in Fall of 2022 are:
 
 
-[![Foo](6-1.png|150px)](https://class-room.info/courses/70-110/70-110-lesson-plan/)
+[![70-110: Fundamentals](obsidian://open?vault=Obsidian&file=Courses%2Fimg%2F6-1.png|150px)](https://class-room.info/courses/70-110/70-110-lesson-plan/)
 
 
   ---
