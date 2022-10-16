@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/courses/courses-homepage/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/courses/courses-homepage/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":false}
 ---
 
 
