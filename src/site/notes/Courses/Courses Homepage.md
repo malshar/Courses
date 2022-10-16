@@ -13,10 +13,6 @@
 
 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
-
-
 #### The Courses offered in Fall of 2022 are:
 
 [[Courses/70-110/70-110-Lesson Plan|70-110-Lesson Plan]] : Fundamentals of Electric Engineering
