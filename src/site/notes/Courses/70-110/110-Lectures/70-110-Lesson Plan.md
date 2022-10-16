@@ -3,7 +3,7 @@
 ---
 
 
-### [[Courses/70-110/110-Lectures/70-110-Lesson Plan|Lecture 1]]
+### [[Courses/70-110/110-Lectures/110-Lecture 1|Lecture 1]]
 
 - [ ] **Understand the concept of potential difference (voltage) and charge motion (current)**
 	- [ ] Understand the atom structure
