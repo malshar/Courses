@@ -20,10 +20,10 @@
 
 ---
   
-[[Courses/70-115/70-115-Lesson Plan|70-115: Electric Circuits]]
+[[Courses/70-115/115-Lectures/70-115-Lesson Plan|70-115: Electric Circuits]]
 
 ---
  
-[[Courses/52-270/52-270-Lesson Plan|52-270: Electric Drives]]
+[[Courses/52-270/270-Lectures/52-270-Lesson Plan|52-270: Electric Drives]]
 
 ---
