@@ -16,7 +16,7 @@
 #### The Courses offered in Fall of 2022 are:
 
 
-[[Courses/70-110/70-110-Lesson Plan|70-110: Fundamentals of Elecrical Engineering]]
+[[Courses/70-110/110-Lectures/70-110-Lesson Plan|70-110: Fundamentals of Elecrical Engineering]]
 
 ---
   
