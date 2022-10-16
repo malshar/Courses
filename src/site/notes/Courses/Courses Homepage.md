@@ -27,4 +27,3 @@
 [[Courses/52-270/52-270-Lesson Plan|52-270: Electric Drives]]
 
 ---
-![[Courses/attach/70115s_midterm2_solution.pdf]]
