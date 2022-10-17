@@ -14,7 +14,7 @@
 	- [ ] Explain the role of Electric Drive systems in energy conservation.
 	- [ ] Explain the role of Electric Drive systems in renewable energy.
 	- [ ] Explain the role of Electric Drive systems in transportation and automation.
-
+	
 ### [[ Courses/52-270/270-Lectures/270-Lecture 2|Lecture 2]]
 
 - [ ] **Describe the basic characteristics of DC motors and their control parameters**
