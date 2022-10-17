@@ -5,7 +5,21 @@
 
 ### [[Courses/70-110/110-Lectures/110-Lecture 1|Lecture 1]]
 
-- [ ] **Understand the concept of potential difference (voltage) and charge motion (current)**
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+
+## Core Competency
+**Understand the concept of potential difference (voltage) and charge motion (current)** ^d6badd
+
+* At the end of the lecture the student should:
 	- [ ] Understand the atom structure
 	- [ ] Differentiate between proton and electron charges 
 	- [ ] Calculate the electric current in terms of the charge 
@@ -13,13 +27,21 @@
 	- [ ] Understand the concept of the potential difference 
 	- [ ] Calculate the power and energy. 
 
+## [[Courses/70-110/110-Slides/110-Slides-Lecture-1|Slides]]
+
+## [[Courses/70-110/110-Questions/110-QSet-1| Questions]]
+
+
+
+
+
+
+</div></div>
+
+
 ### [[Courses/70-110/110-Lectures/110-Lecture 2|Lecture 2]]
-- [ ] **Calculate resistance of different types of materials**
-	- [ ] Understand the meaning of specific resistance
-	- [ ] Understand the effect of the length and cross section area on the resistance. 
-	- [ ] Calculate the resistance of different electrical wires.
-	- [ ] Calculate the resistance at different temperature (Temperature effect) 
-	
+
+
 ### [[Courses/70-110/110-Lectures/110-Lecture 3|Lecture 3]]
 - [ ] **Identify color coding of resistors**
 	- [ ] Understand the color coding system 
