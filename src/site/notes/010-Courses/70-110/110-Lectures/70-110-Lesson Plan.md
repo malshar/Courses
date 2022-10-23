@@ -14,7 +14,6 @@
 
 ## Core Competency
 **Understand the concept of potential difference (voltage) and charge motion (current)** ^d6badd
-
 * At the end of the lecture the student should:
 	- [ ] Understand the atom structure
 	- [ ] Differentiate between proton and electron charges 
@@ -22,6 +21,7 @@
 	- [ ] Calculate the electrical voltage
 	- [ ] Understand the concept of the potential difference 
 	- [ ] Calculate the power and energy. 
+
 
 ## [[010-Courses/70-110/110-Slides/110-Slides-Lecture-1|Slides]]
 [Slides Lec 1](https://slides.class-room.info/110-slides/110-slides-1)
@@ -38,6 +38,35 @@
 
 
 ### [[010-Courses/70-110/110-Lectures/110-Lecture 2|Lecture 2]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+
+## Core Competency
+**Calculate resistance of different types of materials** ^07815e
+
+### At the end of the lecture the student should:
+- [ ] Understand the meaning of specific resistance
+- [ ] Understand the effect of the length and cross section area on the resistance. 
+- [ ] Calculate the resistance of different electrical wires.
+- [ ] Calculate the resistance at different temperature (Temperature effect) 
+
+## [[010-Courses/70-110/110-Slides/110-Slides-Lecture-2|Slides]]
+
+## [[010-Courses/70-110/110-Questions/110-QSet-2| Questions]]
+
+
+
+
+
+
+
+</div></div>
 
 
 ### [[010-Courses/70-110/110-Lectures/110-Lecture 3|Lecture 3]]
